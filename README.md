@@ -36,7 +36,7 @@ Se não está → o sistema recomenda outro título.
 As capas são carregadas localmente usando JavaScript.
 
 🌐 Acesse o site
-🔗 GitHub Pages: https://juliarambodias.github.io/estante-livro/
+🔗 GitHub Pages: (https://juliarambodias.github.io/estante-da-julia/)
 
 📂 Estrutura de pastas
 /
