@@ -1,0 +1,331 @@
+{
+  "livros": [
+    {
+      "titulo": "É Assim Que Acaba",
+      "autor": "Colleen Hoover",
+      "genero": "Romance dramático / Coração esmagado",
+      "descricao": "Lily se apaixona e a vida parece perfeita. Só que não. Prepare-se para um soco no estômago sobre ciclos de abuso, com um final que vai te fazer chorar e aplaudir de pé.",
+      "recomendado": false,
+      "imagem": "e-assim-que-acaba.jpg"    },
+    {
+      "titulo": "Tarde Demais",
+      "autor": "Colleen Hoover",
+      "genero": "Romance intenso / Sessão de lamento",
+      "descricao": "Sloan faria qualquer coisa por quem ama, até se envolver com um traficante. Quando um policial disfarçado entra na jogada, a coisa fica feia. Um romance sombrio e viciante.",
+      "imagem": "tarde-demais.jpg"
+    },
+    {
+      "titulo": "Hibisco Roxo",
+      "autor": "Chimamanda Ngozi Adichie",
+      "genero": "Drama familiar / Vida difícil",
+      "descricao": "Kambili vive sob o controle de um pai fanático. Ao passar um tempo com a tia, descobre um mundo com risadas e liberdade. Uma história poderosa e delicada sobre encontrar sua voz.",
+      "recomendado": true,
+      "imagem": "hibisco-roxo.jpg" 
+    },
+    {
+      "titulo": "Namorado de Aluguel",
+      "autor": "Kasie West",
+      "genero": "Romance teen / Comédia fofa",
+      "descricao": "Gia precisa de um namorado para o baile. A solução? Pagar um cara aleatório para fingir. O que poderia dar errado? Um clichê fofo e divertido que vai te fazer suspirar.",
+      "imagem": "namorado-de-aluguel.jpg"
+    },
+    {
+      "titulo": "A Escolha",
+      "autor": "Nicholas Sparks",
+      "genero": "Romance meloso / Drama do coração",
+      "descricao": "Travis é o vizinho que você ama odiar, até se apaixonar. Uma escolha pode mudar tudo. Prepare os lencinhos, porque Nicholas Sparks não perdoa.",
+      "imagem": "a-escolha.jpg"
+    },
+    {
+      "titulo": "Duff",
+      "autor": "Kody Keplinger",
+      "genero": "Romance teen / Humor ácido",
+      "descricao": "Bianca descobre que é a DUFF — a amiga 'feia e gorda' do rolê. Revoltada, ela se une ao maior galinha da escola para virar o jogo. Um livro sobre rótulos, amizade e muita atitude.",
+      "imagem": "duff.jpg"
+    },
+    {
+      "titulo": "Simplesmente Acontece",
+      "autor": "Cecelia Ahern",
+      "genero": "Romance fofo / Amizade complicada",
+      "descricao": "Rosie e Alex são melhores amigos desde sempre. O universo parece conspirar para que eles nunca fiquem juntos. Uma história de amor contada por e-mails e cartas que vai te fazer rir e chorar.",
+      "recomendado": false,
+      "imagem": "simplesmente-acontece.jpg"
+    },
+    {
+      "titulo": "Anne de Green Gables (livro 1)",
+      "autor": "L. M. Montgomery",
+      "genero": "Clássico juvenil / Sonhadora incorrigível",
+      "descricao": "Uma órfã ruiva e tagarela é enviada por engano para uma fazenda. Com sua imaginação sem limites, ela transforma a vida de todos. Um clássico que aquece o coração.",
+      "imagem": "anne-de-green-gables.jpg"
+    },
+    {
+      "titulo": "A Vegetariana",
+      "autor": "Han Kang",
+      "genero": "Drama psicológico / Estranho e intenso",
+      "descricao": "Após um sonho, uma mulher decide parar de comer carne, e essa escolha desintegra sua vida e a de quem está ao redor. Bizarro, poético e impossível de largar.",
+      "imagem": "a-vegetariana.jpg"
+    },
+    {
+      "titulo": "A Garota do Lago",
+      "autor": "Charlie Donlea",
+      "genero": "Suspense / Mistério",
+      "descricao": "Uma estudante de direito é encontrada morta e a cidade pequena esconde segredos sombrios. Uma repórter investiga o caso e descobre que nada é o que parece. Viciante!",
+      "imagem": "a-garota-do-lago.jpg"
+    },
+    {
+      "titulo": "Aristóteles e Dante",
+      "autor": "Benjamin Alire Sáenz",
+      "genero": "Juvenil / Descobrindo a vida",
+      "descricao": "Ari e Dante são dois garotos solitários que se encontram em um verão e aprendem sobre amizade, família e o universo. Uma leitura sensível que vai te marcar para sempre.",
+      "imagem": "aristoteles-e-dante.jpg"
+    },
+    {
+      "titulo": "Trono de Vidro",
+      "autor": "Sarah J. Maas",
+      "genero": "Fantasia épica / Ação e romance",
+      "descricao": "A maior assassina do reino sai da prisão para competir por uma chance de liberdade. Espere lutas, magia, intrigas na corte e um triângulo amoroso de respeito.",
+      "imagem": "trono-de-vidro.jpg"
+    },
+    {
+      "titulo": "O Príncipe Cruel",
+      "autor": "Holly Black",
+      "genero": "Fantasia dark / Jogos de poder",
+      "descricao": "Jude, uma humana no perigoso mundo das fadas, quer poder. Cardan, o príncipe, quer humilhá-la. Um jogo de ódio, intriga e atração que vai te prender do início ao fim.",
+      "imagem": "o-principe-cruel.jpg"
+    },
+    {
+      "titulo": "O Rei Perverso",
+      "autor": "Holly Black",
+      "genero": "Fantasia dark / Jogos de poder",
+      "descricao": "Jude conseguiu o poder, mas mantê-lo é outra história. Com o rei Cardan sob seu controle, ela precisa navegar por traições e sentimentos confusos. A tensão só aumenta!",
+      "imagem": "o-rei-perverso.jpg"
+    },
+    {
+      "titulo": "A Rainha do Nada",
+      "autor": "Holly Black",
+      "genero": "Fantasia dark / Jogos de poder",
+      "descricao": "Exilada, Jude precisa voltar a Faerie para salvar sua irmã. Uma guerra se aproxima e uma maldição precisa ser quebrada. O final épico que você estava esperando.",
+      "imagem": "a-rainha-do-nada.jpg"
+    },
+    {
+      "titulo": "O Acordo",
+      "autor": "Elle Kennedy",
+      "genero": "Romance hot / Universitário",
+      "descricao": "Hannah precisa de uma boa nota. Garrett precisa passar para continuar no time de hóquei. Eles fazem um acordo de aulas particulares que vira algo muito mais quente. Clichê perfeito!",
+      "imagem": "o-acordo.jpg"
+    },
+    {
+      "titulo": "O Erro",
+      "autor": "Elle Kennedy",
+      "genero": "Romance hot / Universitário",
+      "descricao": "Logan cometeu um erro e agora precisa reconquistar a garota. Grace não quer dar o braço a torcer. Um romance divertido, sexy e com a dose certa de drama.",
+      "imagem": "o-erro.jpg"
+    },
+    {
+      "titulo": "O Jogo",
+      "autor": "Elle Kennedy",
+      "genero": "Romance hot / Universitário",
+      "descricao": "Dean só quer curtição. Allie acabou de sair de um relacionamento. Eles não têm nada em comum, exceto uma atração explosiva. Prepare-se para muitas provocações e cenas quentes.",
+      "imagem": "o-jogo.jpg"
+    },
+    {
+      "titulo": "A Conquista",
+      "autor": "Elle Kennedy",
+      "genero": "Romance hot / Universitário",
+      "descricao": "Tucker é o cara perfeito, mas está prestes a ser pai. Sabrina é focada na carreira e não tem tempo para distrações. O destino une os dois da forma mais inesperada.",
+      "imagem": "a-conquista.jpg"
+    },
+    {
+      "titulo": "A Paciente Silenciosa",
+      "autor": "Alex Michaelides",
+      "genero": "Suspense psicológico / Mistério chocante",
+      "descricao": "Uma pintora famosa mata o marido e nunca mais diz uma palavra. Um psicoterapeuta fica obcecado em descobrir a verdade. O final vai te deixar de queixo caído.",
+      "imagem": "a-paciente-silenciosa.jpg"
+    },
+    {
+      "titulo": "Herdeiras do Mar",
+      "autor": "Mary Lynn Bracht",
+      "genero": "Histórico / Drama familiar",
+      "descricao": "Duas irmãs coreanas são separadas durante a Segunda Guerra. Uma história comovente sobre as 'mulheres de conforto', resiliência e o poder dos laços familiares. Leitura necessária.",
+      "recomendado": true,
+      "imagem": "herdeiras-do-mar.jpg" 
+    },
+    {
+      "titulo": "Sombra e Ossos",
+      "autor": "Leigh Bardugo",
+      "genero": "Fantasia / Aventura e magia",
+      "descricao": "Alina, uma órfã, descobre que tem um poder capaz de salvar seu país. Ela é levada para treinar com a elite mágica, mas nada é o que parece. Magia, perigo e um vilão inesquecível.",
+      "imagem": "sombra-e-ossos.jpg"
+    },
+    {
+      "titulo": "Vergonha",
+      "autor": "Brittainy C. Cherry",
+      "genero": "Romance dramático / Corações partidos",
+      "descricao": "Grace e Jackson se apaixonam, mas a vida os separa de forma trágica. Anos depois, eles se reencontram, mas as feridas do passado ainda doem. Um romance sobre perdão e segundas chances.",
+      "imagem": "vergonha.jpg"
+    },
+    {
+      "titulo": "Nebulosos",
+      "autor": "Tay Ferreira",
+      "genero": "Romance / Amores complicados",
+      "descricao": "Alana só queria vingança, mas encontrou um homem que virou seu mundo de cabeça para baixo. Um romance intenso, cheio de segredos e com uma química de milhões.",
+      "imagem": "nebulosos.jpg"
+    },
+    {
+      "titulo": "Tempestuosos",
+      "autor": "Tay Ferreira",
+      "genero": "Romance / Amores complicados",
+      "descricao": "A continuação da história de Alana e Gael. Mais tretas, mais paixão e mais reviravoltas de tirar o fôlego. Se você gostou de Nebulosos, vai amar este aqui.",
+      "imagem": "tempestuosos.jpg"
+    },
+    {
+      "titulo": "O Ladrão de Raios",
+      "autor": "Rick Riordan",
+      "genero": "Fantasia / Mitologia divertida",
+      "descricao": "Percy descobre que é filho de um deus grego e é acusado de roubar o raio de Zeus. Uma aventura cheia de monstros, deuses e muito sarcasmo. Impossível não amar.",
+      "imagem": "o-ladrao-de-raios.jpg"
+    },
+    {
+      "titulo": "O Mar de Monstros",
+      "autor": "Rick Riordan",
+      "genero": "Fantasia / Mitologia divertida",
+      "descricao": "O Acampamento Meio-Sangue está em perigo. Percy e seus amigos precisam encontrar o Velocino de Ouro em uma viagem pelo Mar de Monstros. Mais aventura, mais perigos e mais risadas.",
+      "imagem": "o-mar-de-monstros.jpg"
+    },
+    {
+      "titulo": "The Chase",
+      "autor": "Elle Kennedy",
+      "genero": "Romance hot / Universitário",
+      "descricao": "Summer é a patricinha que todos julgam. Fitz é o cara tatuado e caladão. Eles se tornam colegas de quarto e a atração é inevitável. Um romance divertido e sexy.",
+      "imagem": "the-chase.jpg"
+    },
+    {
+      "titulo": "The Bad Guy",
+      "autor": "Miss Conface",
+      "genero": "Romance / Comédia e trapaceiros",
+      "descricao": "Delilah é uma golpista. Noah é o policial que deveria prendê-la. Eles acabam se envolvendo em um jogo perigoso de mentiras e atração. Quem vai enganar quem?",
+      "imagem": "the-bad-guy.jpg"
+    },
+    {
+      "titulo": "Be The Best Liar",
+      "autor": "Miss Conface",
+      "genero": "Romance / Enganações amorosas",
+      "descricao": "A continuação de The Bad Guy. Mais mentiras, mais segredos e uma tensão de milhões. Delilah e Noah estão de volta para provar quem é o melhor mentiroso.",
+      "imagem": "the-best-liar.jpg"
+    },
+    {
+      "titulo": "Metanoia",
+      "autor": "Cora Menestrelli",
+      "genero": "Romance dramático / Crescimento pessoal",
+      "descricao": "Uma jogadora de futebol e um astro do rock. Dois mundos diferentes que se colidem. Um romance sobre segundas chances, superação e encontrar seu próprio caminho.",
+      "imagem": "metanoia.jpg"
+    },
+    {
+      "titulo": "O Que Você Não Vê",
+      "autor": "Cora Menestrelli",
+      "genero": "Romance dramático / Segredos à vista",
+      "descricao": "Dois astronautas, uma missão e um segredo. Um romance delicado e emocionante sobre o que escondemos por trás das aparências. Prepare o coração.",
+      "imagem": "o-que-voce-nao-ve.jpg"
+    },
+    {
+      "titulo": "Punk 57",
+      "autor": "Penelope Douglas",
+      "genero": "Romance / Treta adolescente",
+      "descricao": "Misha e Ryen são amigos por correspondência há anos, mas nunca se viram. Quando se encontram por acaso, o ódio é instantâneo. Um romance sombrio, cheio de bullying e tensão.",
+      "imagem": "punk-57.jpg"
+    },
+    {
+      "titulo": "Flores Para Algernon",
+      "autor": "Daniel Keyes",
+      "genero": "Drama / Reflexão profunda",
+      "descricao": "Charlie, um homem com deficiência intelectual, passa por uma cirurgia que o torna um gênio. Uma jornada emocionante e dolorosa que te fará questionar tudo. Leitura obrigatória.",
+      "recomendado": true,
+      "imagem": "flores-para-algernon.jpg"
+    },
+    {
+      "titulo": "The Spanish Love Deception",
+      "autor": "Elena Armas",
+      "genero": "Romance / Enganos e amor",
+      "descricao": "Catalina precisa de um namorado de mentira para um casamento na Espanha. Seu colega de trabalho insuportável se oferece. Uma farsa que vira um romance delicioso e divertido.",
+      "imagem": "the-spanish-love-deception.jpg"
+    },
+    {
+      "titulo": "Verity",
+      "autor": "Colleen Hoover",
+      "genero": "Thriller / Suspense intenso",
+      "descricao": "Uma escritora é contratada para terminar os livros de uma autora famosa que sofreu um acidente. Ao encontrar uma autobiografia secreta, ela descobre verdades aterrorizantes. Perturbador!",
+      "imagem": "verity.jpg"
+    },
+    {
+      "titulo": "Os Garotos Mortos Não Contam Segredos",
+      "autor": "Parker Minser",
+      "genero": "Suspense juvenil / Mistério",
+      "descricao": "O namorado de Evie morre e a cidade inteira acha que foi suicídio. Ela sabe que não foi. Um suspense juvenil cheio de segredos e reviravoltas que te prende até o fim.",
+      "imagem": "os-garotos-mortos-nao-contam-segredos.jpg"
+    },
+    {
+      "titulo": "Os Garotos Mortos Não Contam Mentiras",
+      "autor": "Parker Minser",
+      "genero": "Suspense juvenil / Continuação tensa",
+      "descricao": "A continuação do mistério de Evie. Mais segredos são revelados, mais mentiras vêm à tona e a tensão só aumenta. Se você gostou do primeiro, vai devorar este.",
+      "imagem": "os-garotos-mortos-nao-contam-mentiras.jpg"
+    },
+    {
+      "titulo": "Heartstopper",
+      "autor": "Alice Oseman",
+      "genero": "Romance teen / Fofo e fofinho",
+      "descricao": "Charlie e Nick se conhecem na escola e uma amizade improvável floresce. Uma história sobre amor, amizade e autodescoberta que vai aquecer seu coração.",
+      "imagem": "heartstopper-volume-1.jpg"
+    },
+    {
+      "titulo": "Heartstopper: Volume 2",
+      "autor": "Alice Oseman",
+      "genero": "Romance teen / Fofo e fofinho",
+      "descricao": "Nick e Charlie estão cada vez mais próximos, mas precisam lidar com os desafios de um novo relacionamento. Mais momentos fofos e mais dilemas para o casal que amamos.",
+      "imagem": "heartstopper-volume-2.jpg"
+    },
+    {
+      "titulo": "Crepúsculo",
+      "autor": "Stephenie Meyer",
+      "genero": "Romance sobrenatural / Vampiros dramáticos",
+      "descricao": "Bella se muda para uma cidade chuvosa e se apaixona por Edward, um vampiro misterioso. Um romance sobrenatural que marcou uma geração. E aí, time Edward ou Jacob?",
+      "imagem": "crepusculo.jpg"
+    },
+    {
+      "titulo": "The Love Hypothesis",
+      "autor": "Ali Hazelwood",
+      "genero": "Romance universitário / Fake love",
+      "descricao": "Uma cientista finge namorar um professor carrancudo para provar um ponto. O resultado? Uma comédia romântica inteligente e divertida que virou um fenômeno. Impossível não amar.",
+      "recomendado": true,
+      "imagem": "the-love-hypothesis.jpg"
+    },
+    {
+      "titulo": "A Seleção",
+      "autor": "Kiera Cass",
+      "genero": "Romance distópico / Reality show real",
+      "descricao": "35 garotas competem pelo coração de um príncipe em um reality show. America Singer só queria ajudar a família, mas acaba se envolvendo mais do que imaginava. Vestidos, intrigas e romance.",
+      "imagem": "a-selecao.jpg"
+    },
+    {
+      "titulo": "A Elite",
+      "autor": "Kiera Cass",
+      "genero": "Romance distópico / Drama do palácio",
+      "descricao": "A competição afunila e a pressão aumenta. America precisa lidar com as outras garotas, os rebeldes e seus próprios sentimentos confusos. O drama no palácio está pegando fogo!",
+      "imagem": "a-elite.jpg"
+    },
+    {
+      "titulo": "A Escolha",
+      "autor": "Kiera Cass",
+      "genero": "Romance distópico / Final dramático",
+      "descricao": "A grande final! America precisa escolher entre o príncipe Maxon e seu antigo amor, Aspen. Uma decisão que mudará sua vida e o futuro do reino para sempre.",
+      "imagem": "a-escolha-kiera-cass.jpg"
+    },
+    {
+      "titulo": "Feliz Para Sempre",
+      "autor": "Kiera Cass",
+      "genero": "Romance distópico / Epílogo fofo",
+      "descricao": "Contos extras do universo de A Seleção, mostrando o ponto de vista de outros personagens e o que aconteceu depois do 'felizes para sempre'. Um presente para os fãs da série.",
+      "imagem": "feliz-para-sempre.jpg"
+    }
+  ]
+}
